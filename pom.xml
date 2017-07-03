@@ -4,7 +4,7 @@
 
     <groupId>me.gasparms</groupId>
     <artifactId>mvn-jenkins-nexus</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.nexus.plugin.version>1.6.6</maven.nexus.plugin.version>
